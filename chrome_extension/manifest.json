@@ -1,6 +1,6 @@
 {
 	"name": "GOP",
-	"version": "1.1",
+	"version": "1.2",
 	"homepage_url": "http://devpost.com/software/gop-candidates-imageswap",
 	"description": "A chrome extension that swaps all of your images to pictures of GOP candidates from the 2016 election",
 	"icons": {"128" : "img/GOP_128.png",
