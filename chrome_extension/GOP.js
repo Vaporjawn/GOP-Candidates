@@ -32,7 +32,6 @@ function Randomize(images){
 }
 
 var myGOP = [
-new GOP("horizontal", "http://heygirl.io/img/gosling-horiz-1.png"),
 new GOP("horizontal", "https://media.giphy.com/media/3o85xBXKRd3UAyqSIM/giphy.gif"),
 new GOP("horizontal", "http://www.gannett-cdn.com/-mm-/cfd2949a6bc4f7e98cc6a3fae3f80d64a910519e/c=0-159-4926-2942&r=x1683&c=3200x1680/local/-/media/2015/06/27/USATODAY/USATODAY/635710194244161615-XXX-CAPITAL-DOWNLOAD-SEN.-TED-CRUZ-JMG-40121-74074276.JPG"),
 new GOP("horizontal", "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGELmuu6Wlk4cBGT_FlnH0jZAneKxvQYlkz-9hzuRzJvfDP7QawQ"),
