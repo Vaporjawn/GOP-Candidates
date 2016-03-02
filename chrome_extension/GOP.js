@@ -72,6 +72,7 @@ new GOP("vertical", "http://crooksandliars.com/files/primary_image/15/10/o-rand-
 new GOP("vertical", "http://www.teaparty.org/wp-content/uploads/2013/02/RandPaul450x285.gif"),
 new GOP("vertical", "http://media.salon.com/2015/04/rand_paul19.jpg"),
 new GOP("square", "http://i2.cdn.turner.com/cnn/2015/images/09/17/trumpfaces.gif"),
+new GOP("square"), "http://static6.businessinsider.com/image/55918b77ecad04a3465a0a63/nbc-fires-donald-trump-after-he-calls-mexicans-rapists-and-drug-runners.jpg",
 new GOP("square", "http://media.salon.com/2016/01/ted-cruz.jpg"),
 new GOP("square", "http://www.slate.com/content/dam/slate/articles/news_and_politics/politics/2015/04/150413_POL_Rubio.jpg.CROP.promo-mediumlarge.jpg"),
 new GOP("square", "https://m.popkey.co/f1ddfb/KMwzD_s-200x150.gif"),
