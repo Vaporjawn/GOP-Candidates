@@ -1,3 +1,4 @@
+//GG
 function GOP(ratio, imageurl){
 	this.ratio = ratio;
 	this.imageurl = imageurl;
